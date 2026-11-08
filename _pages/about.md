@@ -9,17 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-I am a first-year PhD candidate at the **HKUST NLP Group** at the Hong Kong University of Science and Technology, supervised by **Professor Junxian He**. Professor Junxian He also previously advised me during my undergraduate studies at Shanghai Jiao Tong University, from which I graduated in June 2024.
-
-My research focuses on **natural language processing** and **machine learning**. My current research interests include **LLM Reasoning and Reinforcement Learning**, **Hallucination in Vision-Language Models (VLM)**, and **LLM Truthfulness and Interpretability**.
-
 # About Me
 
-I am a first-year PhD candidate at the [HKUST NLP Group]({{ base_path }}), working under the supervision of Professor Junxian He. I am pursuing my Ph.D. in Computer Science at the Hong Kong University of Science and Technology since 2024.
+I am a first-year PhD candidate at the **HKUST NLP Group** at the Hong Kong University of Science and Technology, where I am pursuing my Ph.D. in Computer Science (2024 - Present) under the supervision of **Professor Junxian He**.
 
-Before that, I completed my B.Eng. at Shanghai Jiao Tong University in June 2024 (2020 - 2024). Professor Junxian He also previously advised me during my undergraduate studies at SJTU.
+Before the Ph.D., I completed my **B.Eng.** at **Shanghai Jiao Tong University** (2020 - 2024), graduating in June 2024. Professor Junxian He also previously advised me during my undergraduate studies at SJTU.
 
-My research focuses on natural language processing and machine learning, with the following specific research interests:
+My research focuses on **natural language processing** and **machine learning**, with the following specific research interests:
 
 - **LLM Reasoning and Reinforcement Learning**
 - **Hallucination in Vision-Language Models (VLM)**
@@ -53,7 +49,7 @@ My research focuses on natural language processing and machine learning, with th
 
 A complete list of my publications is also available on the [Publications]({{ base_path }}/publications/) page and on my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate).
 
-1. **Junteng Liu**, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He. (2025). "[SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond]({{ base_path }}/publication/synlogic/)." *arXiv*.
+1. **Junteng Liu**, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He. (2025). "[SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond]({{ base_path }}/publication/synlogic/)." *arXiv*. Code is available on GitHub.
 2. **Junteng Liu**, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He. (2025). "[On the Perception Bottleneck of VLMs for Chart Understanding]({{ base_path }}/publication/on-the-perception-bottleneck-of-vlms-for-chart-understanding/)." *arXiv*. Code repository: Vision4Chart.
 3. **Junteng Liu**, Shiqi Chen, Yu Cheng, Junxian He. (2024). "[On the Universal Truthfulness Hyperplane Inside LLMs]({{ base_path }}/publication/on-the-universal-truthfulness-hyperplane-inside-llms/)." ***EMNLP 2024***. Code repository: Universal_Truthfulness_Hyperplane.
 4. Shiqi Chen, Miao Xiong, **Junteng Liu**, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He. (2024). "[In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation]({{ base_path }}/publication/in-context-sharpness-as-alerts-an-inner-representation-perspective-for-hallucination-mitigation/)." ***ICML 2024***.
